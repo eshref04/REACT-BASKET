@@ -1,0 +1,50 @@
+.men__section__heading{
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.men__section__heading h3{
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: 600;
+}
+
+.men__section__heading p{
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.men__section .container{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0px;
+    font-family: "Poppins", sans-serif;
+}
+
+.men__section{
+    color: white;
+    z-index: 1;
+    position: relative;
+    background-image: url("https://preview.colorlib.com/theme/shop/img/men-bg.jpg.webp");
+}
+
+.men__section__overlay{
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0.8;
+    background-image: -webkit-linear-gradient(45deg, #f6463d 0%, #f6398d 45%, #f52cdc 100%);
+} 
+

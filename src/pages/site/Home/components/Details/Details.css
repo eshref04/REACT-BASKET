@@ -1,0 +1,18 @@
+.details__text h2,h3,h4{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+}
+
+.details__text h2{
+    font-size: 29px;
+}
+    
+.details__page h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #222222;
+    font-size: 40px;
+}

@@ -1,0 +1,36 @@
+{
+  "games":[
+      {
+          "id": "1",
+          "title": "Red Dead Redemption 2",
+          "price": 29.99,
+          "category": "Action-Adventure",
+          "image": "https://m.media-amazon.com/images/I/81dKP+iFloL.jpg",
+          "description": "After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive."
+      },
+      {
+          "id": "2",
+          "title": "Cyberpunk 2077",
+          "price": 25.99,
+          "category": "Action Role Playing",
+          "image": "https://m.media-amazon.com/images/I/81YptknEr3L._AC_UF1000,1000_QL80_.jpg",
+          "description": "Cyberpunk 2077 is an action role-playing game played from a first-person perspective as V, a mercenary whose voice, face, hairstyle, body type and modifications, background, and clothing are customisable."
+      },
+      {
+          "id": "3",
+          "title": "Detroit: Become Human",
+          "price": 20.99,
+          "category": "Adventure",
+          "image": "https://acdn.mitiendanube.com/stores/353/484/products/base1-2a19079780c2d98a1015873223994284-640-0.jpg",
+          "description": "Detroit is a dynamic, diverse city with an intriguing history. It's a place of people and places, trends and events, world-changing inventions and groundbreaking music. Long known as the automobile capital of the world, Detroit is also famous for its distinctive Motown music sound from the 1960s."
+      },
+      {
+          "id": "4",
+          "title": "Assassin's Creed Odyssey",
+          "price": 18.99,
+          "category": "Action Role Playing",
+          "image": "https://m.media-amazon.com/images/I/81SvodUkcuL.jpg",
+          "description": "The game's plot tells a mythological history of the Peloponnesian War between Athens and Sparta from 431 to 422 BC. Players control a Spartan mercenary, who fights on both sides of the conflict as they attempt to find their family and eliminate the mysterious Cult of Kosmos."
+      }
+  ]
+}
